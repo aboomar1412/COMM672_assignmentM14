@@ -1,0 +1,16 @@
+
+.nav-link.active {
+    color: #1a2a47 !important;
+}
+.carousel-item {
+    height: 80vh;
+    min-height: 400px;
+    background: no-repeat center center scroll;
+    background-size: cover;
+}
+
+.carousel-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
