@@ -14,3 +14,8 @@
     width: 100%;
     object-fit: cover;
 }
+.btn-warning {
+    background-color: #f0b354;
+    color: white;
+    border: none;
+}
